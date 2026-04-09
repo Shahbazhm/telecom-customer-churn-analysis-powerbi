@@ -51,7 +51,7 @@ This project analyzes customer churn behavior in a telecom company using Power B
 
 ## 📸 Dashboard Preview
 
-(Add your screenshot here)
+![Telecom Customer Churn Analysis Report](report.png)
 
 ---
 
