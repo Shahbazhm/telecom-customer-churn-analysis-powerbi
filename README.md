@@ -72,6 +72,8 @@ This project analyzes customer churn behavior in a telecom company, combining a 
 
 A logistic regression model was built to predict individual customer churn probability, extending the dashboard's descriptive insights into a forward-looking prediction.
 
+📄 **[Read the full methodology write-up](METHODOLOGY.md)** — a detailed, plain-English breakdown of every step: data cleaning, encoding, evaluation metrics, feature importance, and honest caveats.
+
 **Pipeline:**
 1. Data cleaning (handling blanks, removing identifier columns)
 2. One-hot encoding of categorical features
