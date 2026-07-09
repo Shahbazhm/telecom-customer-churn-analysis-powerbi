@@ -64,6 +64,8 @@ This project analyzes customer churn behavior in a telecom company, combining a 
 
 ![Telecom Customer Churn Analysis Report](report.png)
 
+![Predictive Risk Scoring Page](report_risk_scoring.png)
+
 ---
 
 ## 🤖 Predictive Model (Python)
