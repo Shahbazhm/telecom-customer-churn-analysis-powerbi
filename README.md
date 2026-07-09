@@ -24,9 +24,9 @@ This project analyzes customer churn behavior in a telecom company, combining a 
 
 **Predictive (Python Model):**
 * Model Type: Logistic Regression
-* ROC-AUC: 0.862
-* Precision: 68.5% | Recall: 59.5%
-* Accuracy: 82.0% (vs. 73.5% naive baseline)
+* ROC-AUC: 0.842
+* Precision: 65.8% | Recall: 56.7%
+* Accuracy: 80.7% (vs. 73.5% naive baseline)
 
 ---
 
@@ -46,8 +46,8 @@ This project analyzes customer churn behavior in a telecom company, combining a 
 * New customers (0–1 year tenure) are more likely to churn
 * Higher monthly charges are associated with increased churn
 * Electronic check payment method shows higher churn behavior
-* Model performance (ROC-AUC 0.862) shows these patterns are strong enough to reliably rank individual customers by risk, not just describe overall trends
-* The predictive model identifies tenure as the single strongest retention factor, while TotalCharges and Fiber optic internet service are the strongest churn-risk drivers
+* Model performance (ROC-AUC 0.842) shows these patterns are strong enough to reliably rank individual customers by risk, not just describe overall trends
+* The predictive model identifies tenure as the single strongest retention factor, while Fiber optic internet service and TotalCharges are the strongest churn-risk drivers
 
 ---
 
